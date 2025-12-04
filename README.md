@@ -1,4 +1,4 @@
-# Assignment-Intrvew Frontend 🎓
+# Polling System - Frontend 🎓
 
 A React/Vite-based frontend for a live polling system assignment — works with a separate backend (Express + Socket.io).  
 This project is part of the “Live Polling System” assignment, with teacher-student polling, real-time updating, and user authentication flows.
