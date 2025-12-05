@@ -50,8 +50,7 @@ let apiUrl =
           >
             <p>I'm a Student</p>
             <span>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry
+              Be a part of poll by selecting this option, wait for the teacher to add the poll.
             </span>
           </div>
           <div
